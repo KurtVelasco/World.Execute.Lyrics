@@ -10,6 +10,7 @@ namespace World.Execute.Lyrics_Me_
     {
         static void Main(string[] args)
         {
+            //Test
             TextAnimation.AnimateText("Kurt Velasco", "iS ME:", "RED", 10);
             TextAnimation.SimulateLoading(" Done",500, 20);
             Console.ReadKey();
